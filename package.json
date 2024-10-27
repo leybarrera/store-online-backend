@@ -1,6 +1,7 @@
 {
   "name": "store-online-backend",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "node --watch index.js"
